@@ -339,7 +339,7 @@ p { margin: 1rem 0; }
   .blog-item-top-wrapper, .blog-item-content-wrapper, .blog-item-comments { width: 100%; }
   .blog-item-meta-wrapper { margin-bottom: 16.8px; }
   .item-pagination { padding: 3vw 6vw; }
-  .blog-basic-grid { grid-template-columns: 1fr; gap: 39px; padding: 15.6px 6vw; }
+  .blog-basic-grid { grid-template-columns: 1fr; gap: 39px; padding: 15.6px 6vw 33.6px; }
   .blog-basic-grid .blog-item { margin-bottom: 30px; }
   .blog-basic-grid .blog-item:first-child { margin-bottom: 15px; }
   .sqs-layout .row { display: block; }
