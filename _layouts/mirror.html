@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="{{ site.baseurl }}/">
+  {% if site.baseurl != "" %}<meta name="robots" content="noindex, nofollow">{% endif %}
+  {% seo %}
+  <link rel="icon" href="assets/images/logo-150x300.webp" type="image/webp">
+  <link rel="preload" href="assets/fonts/anton/Anton-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="preload" href="assets/fonts/inter/Inter-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="assets/css/mirror.css">
+</head>
+<body>
+  <a class="skip-link" href="{{ page.url | relative_url }}#page">Skip to content</a>
+  {% include mirror-header.html %}
+  <main id="page">
+{{ content }}
+  </main>
+  <footer class="sections" id="footer-sections">
+    {% include mirror-footer.html %}
+  </footer>
+</body>
+</html>

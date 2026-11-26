@@ -1,0 +1,25 @@
+<header class="nia-header">
+  <input type="checkbox" id="nia-menu" class="nia-menu-toggle" aria-label="Open menu">
+  <div class="nia-header-inner">
+    <a class="nia-logo" href="./"><img src="assets/images/logo-150x300.webp" alt="Nia" width="300" height="131"></a>
+    <nav class="nia-nav" aria-label="Main">
+      {% for item in site.data.navigation.main %}<a href="{{ item.url }}"{% assign u = '/' | append: item.url %}{% if page.url == u %} aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}
+    </nav>
+    <div class="nia-actions">
+      <a class="nia-social" href="https://www.linkedin.com/company/nia-the-power-of-choice" target="_blank" rel="noopener" aria-label="LinkedIn">{% include icon-linkedin.svg %}</a>
+      <a class="nia-social" href="https://www.instagram.com/niathepowerofchoice/" target="_blank" rel="noopener" aria-label="Instagram">{% include icon-instagram.svg %}</a>
+      <a class="nia-cta" href="donate/">Donate</a>
+    </div>
+    <label for="nia-menu" class="nia-burger" aria-hidden="true"><span></span><span></span></label>
+  </div>
+  <div class="nia-overlay">
+    <nav aria-label="Mobile">
+      {% for item in site.data.navigation.main %}<a href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
+    </nav>
+    <div class="nia-overlay-actions">
+      <a class="nia-social" href="https://www.linkedin.com/company/nia-the-power-of-choice" target="_blank" rel="noopener" aria-label="LinkedIn">{% include icon-linkedin.svg %}</a>
+      <a class="nia-social" href="https://www.instagram.com/niathepowerofchoice/" target="_blank" rel="noopener" aria-label="Instagram">{% include icon-instagram.svg %}</a>
+      <a class="nia-cta" href="donate/">Donate</a>
+    </div>
+  </div>
+</header>

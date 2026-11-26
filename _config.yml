@@ -16,8 +16,7 @@ plugins:
 exclude:
   - README.md
   - .gitleaks.toml
+  - _archive
 defaults:
   - scope: { path: "" }
-    values: { layout: page }
-  - scope: { path: "", type: posts }
-    values: { layout: post }
+    values: { layout: mirror }
