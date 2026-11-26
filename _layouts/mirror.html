@@ -9,8 +9,8 @@
   <link rel="icon" href="assets/images/logo-150x300.webp" type="image/webp">
   <link rel="preload" href="assets/fonts/anton/Anton-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="preload" href="assets/fonts/inter/Inter-Regular.ttf" as="font" type="font/ttf" crossorigin>
-  <link rel="stylesheet" href="assets/css/mirror.css">
-  <link rel="stylesheet" href="assets/css/rows.css">
+  <link rel="stylesheet" href="assets/css/mirror.css?v={{ site.time | date: '%s' }}">
+  <link rel="stylesheet" href="assets/css/rows.css?v={{ site.time | date: '%s' }}">
 </head>
 <body>
   <a class="skip-link" href="{{ page.url | relative_url }}#page">Skip to content</a>
