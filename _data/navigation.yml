@@ -1,0 +1,19 @@
+# Top menu, in order. Edit here to add, remove or rename items.
+main:
+  - { title: About, url: about/ }
+  - { title: Programs, url: programs/ }
+  - { title: Inspire, url: inspire/ }
+  - { title: Stories, url: stories/ }
+  - { title: Partners, url: partners/ }
+  - { title: Contact, url: contact/ }
+social:
+  - { title: LinkedIn, url: "https://www.linkedin.com/company/nia-the-power-of-choice" }
+  - { title: Instagram, url: "https://www.instagram.com/niathepowerofchoice/" }
+footer:
+  - { title: hello@niapower.org, url: "mailto:hello@niapower.org" }
+  - { title: Donations, url: donate/ }
+  - { title: Partnerships, url: partners/ }
+  - { title: FAQs, url: faqs/ }
+  - { title: Privacy Policy, url: privacy-information/ }
+  - { title: T&Cs, url: terms-conditions/ }
+  - { title: Cookies Statement, url: cookies-statement/ }

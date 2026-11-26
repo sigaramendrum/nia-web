@@ -2,27 +2,26 @@
 layout: page
 title: "Home"
 permalink: /
+redirect_from:
+  - /home/
+  - /events/
 ---
 
-<!-- section 1: theme=dark -->
-
-![](/assets/images/bg-hero.webp)
+<section class="band green has-bg" style="--bg: url('assets/images/bg-hero.webp')" markdown="1">
 
 ## Empowering young females through education and choice
 
 With education underpinning every girl's future, Nia endeavours to educate and provide aspiring girls with the power of choice, the right to opportunity, and help to realise their potential.
 
-[Learn more](/about/){: .button}
+[Learn more](about/){: .button}
 
-![Smiling young woman in a red dupatta, arms folded](/assets/images/hero.webp)
+![Smiling young woman in a red dupatta, arms folded](assets/images/hero.webp)
 
----
+</section>
 
-<!-- section 2: theme=bright -->
+<section class="band blush has-bg" style="--bg: url('assets/images/page-1-image-2.webp')" markdown="1">
 
-![](/assets/images/page-1-image-2.webp)
-
-![Smiling teenage girl with a long braid](/assets/images/img-2.webp)
+![Smiling teenage girl with a long braid](assets/images/img-2.webp)
 
 ### **Power of choice**
 
@@ -38,9 +37,9 @@ Advance and extend development; continue to encourage opportunity and equality f
 
 Nia delivers on this vision by raising funds to financially support deserving girls across the world and mentor them to pursue their dreams.
 
----
+</section>
 
-<!-- section 3: theme=dark-bold -->
+<section class="band navy" markdown="1">
 
 ## Nia in numbers
 
@@ -60,56 +59,54 @@ study programs changing lives
 
 years empowering young women
 
----
+</section>
 
-<!-- section 4: theme=n/a -->
+<section class="band white" markdown="1">
 
-![Six Nia students standing together in a garden](/assets/images/nia-students.webp)
+![Six Nia students standing together in a garden](assets/images/nia-students.webp)
 
 # Making a difference
 
----
+</section>
 
-<!-- section 5: theme=dark -->
-
-![](/assets/images/page-1-blade-3-01-01.webp)
+<section class="band green has-bg" style="--bg: url('assets/images/page-1-blade-3-01-01.webp')" markdown="1">
 
 ## Our programs
 
-![](/assets/images/icon-1-1.webp)
+![](assets/images/icon-1-1.webp)
 
 #### Empower through education
 
-![](/assets/images/icon-2-1.webp)
+![](assets/images/icon-2-1.webp)
 
 #### Inspire via Community
 
-![](/assets/images/icon-3-1.webp)
+![](assets/images/icon-3-1.webp)
 
 #### Pay it forward
 
-[Donate](/donate/){: .button}
+[Donate](donate/){: .button}
 
----
+</section>
 
-<!-- section 6: theme=white -->
+<section class="band white has-bg" style="--bg: url('assets/images/page-1-blade-4.webp')" markdown="1">
 
-![](/assets/images/page-1-blade-4.webp)
-
-![Smiling woman in a cream dupatta](/assets/images/kanmani-1.webp)
+![Kanmani, a Nia student](assets/images/kanmani-1.webp)
 
 ## Student’s stories
 
 Take a limitation and turn it into an opportunity. Take an opportunity and turn it into an adventure. Dream big!
 
-[Get inspired](/stories/){: .button}
+[Get inspired](stories/){: .button}
 
----
+</section>
 
-<!-- section 7: theme=n/a -->
+<section class="band white" markdown="1">
 
 ## Join our community
 
-[Donate](/donate/){: .button}
+[Donate](donate/){: .button}
 
 [Instagram](https://www.instagram.com/niathepowerofchoice/) · [LinkedIn](https://www.linkedin.com/company/nia-the-power-of-choice)
+
+</section>

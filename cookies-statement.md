@@ -4,15 +4,13 @@ title: "Cookies Statement"
 permalink: /cookies-statement/
 ---
 
-<!-- section 1: theme=dark -->
-
-![](/assets/images/contact-blade-01.webp)
+<section class="band green has-bg" style="--bg: url('assets/images/contact-blade-01.webp')" markdown="1">
 
 # Nia Cookies Statement
 
----
+</section>
 
-<!-- section 2: theme=white -->
+<section class="band white" markdown="1">
 
 #### 1. What are cookies?
 
@@ -59,3 +57,5 @@ Advertising cookies
 
 **3.4 Advertising cookies
 **These cookies are used to deliver adverts that are relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by third parties (for example advertising networks) with our permission. You can choose whether to allow these cookies.
+
+</section>

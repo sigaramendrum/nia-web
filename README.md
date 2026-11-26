@@ -14,8 +14,15 @@ consent.
 | Team and board on /about | `_data/team.yml` |
 | A story, or add one | `_posts/YYYY-MM-DD-<name>.md` (shows at `/stories/<name>/`) |
 | The Stories list | `stories.md` |
-| Buttons | Write `[Label](/link/){: .button}` on its own line |
-| Images | Put the file in `assets/images/` and write `![What it shows](/assets/images/<file>)` |
+| Top menu and footer links | `_data/navigation.yml` |
+| Colours, fonts, spacing | `assets/css/main.css` |
+| Buttons | Write `[Label](link/){: .button}` on its own line |
+| Images | Put the file in `assets/images/` and write `![What it shows](assets/images/<file>)` |
+| A coloured block | Wrap it in `<section class="band green" markdown="1">` … `</section>` (white, light, blush, green, navy, violet) |
+| Redirect an old URL | Add it under `redirect_from:` in the target page's header |
+
+**Links have no leading slash** (`about/`, not `/about/`). The layout sets `<base href>`, so the same
+links work on the preview (`/nia-web/`) and on niapower.org.
 
 Each page's URL is the `permalink:` in its header, matching the old Squarespace URLs.
 
@@ -25,7 +32,8 @@ Each page's URL is the `permalink:` in its header, matching the old Squarespace 
 - **Phase 2 done:** the 65 images the pages use are in `assets/images/` (WebP, web size, with alt
   text; backgrounds and icons are marked decorative). Fonts are in `assets/fonts/` (Anton, Inter, both
   OFL) and logos are in `assets/logo/`.
-- **Phase 3:** layouts (`_layouts/`), styles, nav, footer and redirects. Until then `.nojekyll`
-  stays, and Pages is off.
+- **Phase 3:** layouts (`_layouts/`), styles (`assets/css/main.css`), nav and footer
+  (`_data/navigation.yml`) and redirects (`/home`, `/events` → home; `/cart`, `/contact-copy` → donate).
+  Preview: https://sigaramendrum.github.io/nia-web/. At cutover, set `url` and `baseurl` in `_config.yml`.
 
 Full plan: `nia/20_marketing/website/2026-11-26 Plan Website Migration.md` (private repo).

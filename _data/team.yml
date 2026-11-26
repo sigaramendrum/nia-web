@@ -3,53 +3,53 @@
 team:
   - name: Arun Mani
     role: Founder & President
-    photo: /assets/images/arun.webp
+    photo: assets/images/arun.webp
     linkedin: https://www.linkedin.com/in/thearunmani/
   - name: Bala Balasubramanian
     role: Co-founder & Treasurer
-    photo: /assets/images/bala-balasubramanian-scaled.webp
+    photo: assets/images/bala-balasubramanian-scaled.webp
     linkedin: https://www.linkedin.com/in/bala2007/
   - name: Rajamani Thangapandiyan
     role: Program Manager
-    photo: /assets/images/rajamani.webp
+    photo: assets/images/rajamani.webp
     linkedin: https://www.linkedin.com/in/rajamani-thangapandian-878928208/
   - name: Neetha Edwin
     role: Marketing
-    photo: /assets/images/neetha.webp
+    photo: assets/images/neetha.webp
     linkedin: https://www.linkedin.com/in/neetha-edwin/
   - name: Swati Sharma
     role: Technology
-    photo: /assets/images/swati.webp
+    photo: assets/images/swati.webp
     linkedin: https://www.linkedin.com/in/swati-sharma-3446b123/
   - name: Myriam Bahi
     role: Legal Counsel
-    photo: /assets/images/myriam-bahi.webp
+    photo: assets/images/myriam-bahi.webp
     linkedin: https://www.linkedin.com/in/myriambahi/
   - name: Gareth Strange
     role: Design
-    photo: /assets/images/gareth-nia.webp
+    photo: assets/images/gareth-nia.webp
     linkedin: https://www.linkedin.com/in/garethstrange/
   - name: Sarah Burley
     role: Brand
-    photo: /assets/images/sarah.webp
+    photo: assets/images/sarah.webp
     linkedin: https://www.linkedin.com/in/sarah-burley-94425065/
 
 board:
   - name: Bala Balasubramanian
-    photo: /assets/images/bala-balasubramanian-scaled.webp
+    photo: assets/images/bala-balasubramanian-scaled.webp
     linkedin: https://www.linkedin.com/in/bala2007/
   - name: Arun Mani
-    photo: /assets/images/arun.webp
+    photo: assets/images/arun.webp
     linkedin: https://www.linkedin.com/in/thearunmani/
   - name: Namrata Sandhu
-    photo: /assets/images/namrata-sandhu.webp
+    photo: assets/images/namrata-sandhu.webp
     linkedin: https://www.linkedin.com/in/namrata-sandhu/
   - name: Shikha Goyal
-    photo: /assets/images/shikha-goyal.webp
+    photo: assets/images/shikha-goyal.webp
     linkedin: https://www.linkedin.com/in/shikhagoyal29/
   - name: Priya Selvaraj
-    photo: /assets/images/priya.webp
+    photo: assets/images/priya.webp
     linkedin: https://www.linkedin.com/in/priya-selvaraj-0549b54/
   - name: Shobana Radhakrishnan
-    photo: /assets/images/shobana-radhakrishnan.webp
+    photo: assets/images/shobana-radhakrishnan.webp
     linkedin: https://www.linkedin.com/in/shobanaradhakrishnan/

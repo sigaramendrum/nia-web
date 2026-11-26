@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="{{ site.baseurl }}/">
+  {% seo %}
+  <link rel="icon" href="assets/logo/nia-logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+  <a class="skip" href="{{ page.url | relative_url }}#main">Skip to content</a>
+  <header class="site-header">
+    <a class="logo" href="./"><img src="assets/logo/nia-logo.svg" alt="Nia home"></a>
+    <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Menu">
+    <label for="menu-toggle" class="menu-button" aria-hidden="true">Menu</label>
+    <nav class="site-nav" aria-label="Main">
+      {% for item in site.data.navigation.main %}
+        <a href="{{ item.url }}"{% assign u = '/' | append: item.url %}{% if page.url == u %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+      {% for item in site.data.navigation.social %}<a class="social" href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
+      <a class="button" href="donate/">Donate</a>
+    </nav>
+  </header>
+  <main id="main">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <nav aria-label="Footer">
+      {% for item in site.data.navigation.footer %}<a href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
+    </nav>
+    <p>Nia is a 501(c)(3) non-profit registered in California, USA. &copy; {{ site.time | date: "%Y" }} Nia.</p>
+  </footer>
+</body>
+</html>

@@ -4,15 +4,13 @@ title: "Contact"
 permalink: /contact/
 ---
 
-<!-- section 1: theme=dark -->
-
-![](/assets/images/contact-blade-01.webp)
+<section class="band green has-bg" style="--bg: url('assets/images/contact-blade-01.webp')" markdown="1">
 
 # Contact
 
----
+</section>
 
-<!-- section 2: theme=n/a -->
+<section class="band white" markdown="1">
 
 If you are willing to be a Nia facilitator or know anyone who would like to be Nia’s facilitator in India or another developing country, please let us know by filling this form.
 
@@ -34,3 +32,5 @@ San Jose, CA
 #### Follow us
 
 [Instagram](https://www.instagram.com/niathepowerofchoice/) · [LinkedIn](https://www.linkedin.com/company/nia-the-power-of-choice)
+
+</section>

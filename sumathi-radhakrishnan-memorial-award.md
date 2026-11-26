@@ -4,24 +4,24 @@ title: "Sumathi Radhakrishnan Memorial Award"
 permalink: /sumathi-radhakrishnan-memorial-award/
 ---
 
-<!-- section 1: theme=black -->
+<section class="band navy" markdown="1">
 
-![Misty sunrise over fields and hills in Tamil Nadu](/assets/images/tamil-nadu.webp)
+![Misty sunrise over fields and hills in Tamil Nadu](assets/images/tamil-nadu.webp)
 
 #### NIA INSPIRE
 
 # Sumathi Radhakrishnan
 Memorial Award
 
----
+</section>
 
-<!-- section 2: theme=bright -->
+<section class="band blush" markdown="1">
 
 A scholarship in honour of **Ms. Sumathi Radhakrishnan** – a woman whose values of kindness, equality, and belief in girls’ education continue to inspire change. Through **Nia Inspire**, this award supports girls in Tamil Nadu in pursuing an education of their choice and building a life shaped by opportunity and power of choice.
 
-![Three people outside the University of Illinois Digital Computer Laboratory](/assets/images/uni.webp)
+![Shobana Radhakrishnan with her parents outside the University of Illinois Digital Computer Laboratory](assets/images/uni.webp)
 
-![Shobana Radhakrishnan](/assets/images/shobana.webp)
+![Shobana Radhakrishnan](assets/images/shobana.webp)
 
 ### A tribute that creates opportunity
 
@@ -29,7 +29,7 @@ This scholarship has been instituted by [Shobana Radhakrishnan](https://www.link
 
 At the heart of this award is a daughter’s tribute to a mother whose life, values, and quiet strength left a lasting impact – not only on her own family, but on the many lives she touched.
 
-![Shobana Radhakrishnan with her mother, Sumathi Radhakrishnan](/assets/images/shobana-sumathi-2.webp)
+![Shobana Radhakrishnan with her mother, Sumathi Radhakrishnan](assets/images/shobana-sumathi-2.webp)
 
 ### Remembering Sumathi Radhakrishnan
 
@@ -37,9 +37,9 @@ Born in Thoothukudi and raised in Tamil Nadu, **Ms. Sumathi Radhakrishnan** beli
 
 As a mother of two, she played an active role in encouraging educational achievement and professional ambition. She was known for her kindness, generosity, and willingness to help others in both small and meaningful ways. Her life reflected the values she passed on: treat everyone equally, extend a helping hand, and believe in education as a path to freedom and accomplishment.
 
----
+</section>
 
-<!-- section 3: theme=black -->
+<section class="band navy" markdown="1">
 
 ## What Sets Us Apart
 
@@ -64,3 +64,5 @@ If you would like to institute a scholarship in memory or celebration of a loved
 **Sponsor a scholarship through Nia Inspire. Help a girl pursue the future she deserves.**
 
 [Get in touch](mailto:hello@niapower.org?subject=Nia%20Inspire){: .button}
+
+</section>

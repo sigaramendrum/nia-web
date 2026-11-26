@@ -4,15 +4,13 @@ title: "Privacy Information"
 permalink: /privacy-information/
 ---
 
-<!-- section 1: theme=dark -->
-
-![](/assets/images/contact-blade-01.webp)
+<section class="band green has-bg" style="--bg: url('assets/images/contact-blade-01.webp')" markdown="1">
 
 # Privacy Information
 
----
+</section>
 
-<!-- section 2: theme=white -->
+<section class="band white" markdown="1">
 
 **Effective date:** March 3rd, 2021
 
@@ -201,3 +199,5 @@ If you have any questions, concerns, or comments about this Privacy Notice or ou
 Nia may revise these terms at any time by updating this posting. Please direct questions or comments to: [hello@niapower.org](mailto:hello@niapower.org).
 
 ©Copyright 2021 Nia – The Power of Choice. All Rights Reserved. Nia is a registered trademark of Nia – The Power of Choice (a California-based, USA non-profit corporation). All other trademarks and copyrights are the property of their respective holders.
+
+</section>

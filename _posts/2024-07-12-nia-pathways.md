@@ -3,10 +3,10 @@ layout: post
 title: "Introducing Nia Pathways"
 date: 2024-07-12 10:20:39
 permalink: /stories/nia-pathways/
-image: /assets/images/thumbnail-80.webp
+image: assets/images/thumbnail-80.webp
 ---
 
-![Nia Pathways](/assets/images/pathways-1.webp)
+![Nia Pathways](assets/images/pathways-1.webp)
 
 **Virtual Event
 July 27, 2024
@@ -18,7 +18,7 @@ This is the first in a series of events that we have been busy planning here at 
 
 These conversations will give us the opportunity to hear some personal stories of pivotal moments and help us to gain insight into how we may navigate our choices to make the best of our lives.
 
-![Nia Pathways virtual event](/assets/images/nia-pathways-social.webp)
+![Nia Pathways virtual event](assets/images/nia-pathways-social.webp)
 
 **Speakers:** Shobana Radhakrishnan and Arun Mani
 

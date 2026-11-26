@@ -4,21 +4,19 @@ title: "Terms & Conditions"
 permalink: /terms-conditions/
 ---
 
-<!-- section 1: theme=dark -->
-
-![](/assets/images/contact-blade-01.webp)
+<section class="band green has-bg" style="--bg: url('assets/images/contact-blade-01.webp')" markdown="1">
 
 # Terms & Conditions
 
----
+</section>
 
-<!-- section 2: theme=white -->
+<section class="band white" markdown="1">
 
 Effective date: March 3rd, 2021
 
 These Website terms and conditions (the “Terms”) govern all pages hosted at www.nia-thepowerofchoice.org
 
-We (Nia-The power of choice) may update our Terms from time to time to reflect changes to our work and on the website. For more information about how Nia processes personal data, please see our [privacy policy.](/privacy-information)
+We (Nia-The power of choice) may update our Terms from time to time to reflect changes to our work and on the website. For more information about how Nia processes personal data, please see our [privacy policy.](privacy-information)
 
 #### 1. About us
 
@@ -42,7 +40,7 @@ The Service is designed:
 
 -
 
-To provide information on and encourage participation in Nia various campaigns to stand up for [Nia’s mission and vision](/about)
+To provide information on and encourage participation in Nia various campaigns to stand up for [Nia’s mission and vision](about)
 
 -
 
@@ -67,3 +65,5 @@ In no event will Nia or other third parties mentioned at this site be liable for
 #### 8. Questions
 
 Please direct questions or comments to: [hello@niapower.org](mailto:hello@niapower.org).
+
+</section>

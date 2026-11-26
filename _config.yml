@@ -1,0 +1,23 @@
+title: Nia
+description: Nia empowers girls in India through education and the power of choice.
+# Preview (GitHub Pages project site). At cutover to niapower.org: url "https://niapower.org", baseurl "".
+url: "https://sigaramendrum.github.io"
+baseurl: "/nia-web"
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - .gitleaks.toml
+defaults:
+  - scope: { path: "" }
+    values: { layout: page }
+  - scope: { path: "", type: posts }
+    values: { layout: post }

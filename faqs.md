@@ -4,15 +4,13 @@ title: "FAQ's"
 permalink: /faqs/
 ---
 
-<!-- section 1: theme=dark -->
-
-![](/assets/images/contact-blade-01.webp)
+<section class="band green has-bg" style="--bg: url('assets/images/contact-blade-01.webp')" markdown="1">
 
 # FAQ’s
 
----
+</section>
 
-<!-- section 2: theme=white -->
+<section class="band white" markdown="1">
 
 Below you'll find the most commonly asked questions about our programs, ways you can support, and how you can volunteer.
 
@@ -38,7 +36,7 @@ In India, the average cost of supporting a girl’s education can vary from $25 
 
 ### Can I support a specific girl? If so, can I get regular updates on her progress?
 
-Yes, through [Nia Inspire](/inspire/). Sponsors who institute a scholarship through Nia Inspire support girls hand-picked by Nia and receive regular updates on their progress. General donations are pooled to support all the girls in our programmes, so they are not matched to individual students.
+Yes, through [Nia Inspire](inspire/). Sponsors who institute a scholarship through Nia Inspire support girls hand-picked by Nia and receive regular updates on their progress. General donations are pooled to support all the girls in our programmes, so they are not matched to individual students.
 
 ### Does Nia support girls outside India?
 
@@ -84,7 +82,7 @@ You can donate using Paypal if you are able to donate in USD or Euros. You can a
 
 ### How can I get support from Nia?
 
-The girls we support are directly through our partner organizations. [See here.](/partners)
+The girls we support are directly through our partner organizations. [See here.](partners)
 
 ### How does Nia choose partner programs?
 
@@ -93,3 +91,5 @@ We identify, shortlist, review, and select partners to work with via a rigorous 
 ### How can I apply to be part of the Nia network of partners?
 
 Please email us at [hello@niapower.org](mailto:hello@niapower.org) if you are interested in becoming a partner.
+
+</section>

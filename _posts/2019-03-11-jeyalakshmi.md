@@ -3,10 +3,10 @@ layout: post
 title: "Jeyalakshmi"
 date: 2019-03-11 17:15:07
 permalink: /stories/jeyalakshmi/
-image: /assets/images/jeyalakshmi-blog-1.webp
+image: assets/images/jeyalakshmi-blog-1.webp
 ---
 
-![Jeyalakshmi](/assets/images/jeyalakshmi-blog-2.webp)
+![Jeyalakshmi](assets/images/jeyalakshmi-blog-2.webp)
 
 #### If you educate a man, you educate an individual. But if you educate a woman, you educate a nation. Even though this is an old adage, no one can refuse this.
 
