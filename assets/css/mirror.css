@@ -67,11 +67,11 @@ h4 { --v: var(--h4); }
 p, li, .sqs-html-content { --v: var(--normal); }
 .sqsrte-large { --v: var(--large); }
 .sqsrte-small { --v: var(--small); }
-h1, h2, h3, h4, p, ul, ol, .sqsrte-large, .sqsrte-small, .accordion-item__title, .blog-title, .blog-excerpt, .blog-more-link, .item-pagination-title, .nia-nav a, .nia-overlay nav a {
+h1, h2, h3, h4, p, ul, ol, .blog-item-wrapper, .blog-basic-grid, .item-pagination, .sqsrte-large, .sqsrte-small, .accordion-item__title, .blog-title, .blog-excerpt, .blog-more-link, .item-pagination-title, .nia-nav a, .nia-overlay nav a {
   font-size: calc((var(--v) - 1) * var(--fs) + 1rem);
 }
 @media screen and (min-width: 768px), screen and (orientation: landscape) {
-  h1, h2, h3, h4, p, ul, ol, .sqsrte-large, .sqsrte-small, .accordion-item__title, .blog-title, .blog-excerpt, .blog-more-link, .item-pagination-title, .nia-nav a {
+  h1, h2, h3, h4, p, ul, ol, .blog-item-wrapper, .blog-basic-grid, .item-pagination, .sqsrte-large, .sqsrte-small, .accordion-item__title, .blog-title, .blog-excerpt, .blog-more-link, .item-pagination-title, .nia-nav a {
     font-size: min(calc((var(--v) - 1) * 1.2vw + 1rem), max(calc((var(--v) - 1) * 0.012 * var(--maxPageWidth) + 1rem), calc(var(--v) * 1rem)));
   }
 }
@@ -275,6 +275,7 @@ p { margin: 1rem 0; }
 .visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
 /* story page */
+.blog-item-wrapper, .blog-basic-grid, .item-pagination { --v: var(--normal); line-height: 1.59em; }
 .blog-item-wrapper { width: 100%; }
 .blog-item-wrapper article.entry { padding: var(--pagePadding); }
 .blog-item-top-wrapper, .blog-item-content-wrapper, .blog-item-comments { width: var(--blog-item-custom-width, 50%); margin-left: auto; margin-right: auto; }
@@ -288,8 +289,7 @@ p { margin: 1rem 0; }
 .sqs-layout .row { display: flex; margin: 0 -17px; }
 .sqs-layout .col { flex: 1; min-width: 0; }
 .sqs-layout .sqs-block { padding: 17px; }
-.sqs-layout .row:first-child > .col:first-child > .sqs-block:first-child { padding-top: 0; }
-.sqs-layout .sqs-html-content h4, .sqs-layout .sqs-html-content p { margin: 0; }
+@media screen and (min-width: 768px) { .sqs-layout .row:first-child > .col:first-child > .sqs-block:first-child { padding-top: 0; } }
 .image-block-outer-wrapper figure { margin: 0 auto; }
 .sqs-image-shape-container-element img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .image-caption-wrapper { display: none; }
@@ -308,10 +308,12 @@ p { margin: 1rem 0; }
 /* stories list */
 .blog-basic-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 91px 45px; padding: var(--pagePadding); max-width: var(--maxPageWidth); margin: 0 auto; }
 .blog-basic-grid .blog-item { display: flex; flex-direction: column; margin: 0; }
-.blog-basic-grid .image-wrapper { position: relative; display: block; padding-bottom: 100%; overflow: hidden; margin-bottom: 1.6em; }
+.blog-basic-grid .image-wrapper { position: relative; display: block; padding-bottom: 100%; overflow: hidden; margin: 0; }
+.blog-article-spacer { height: 31px; }
 .blog-basic-grid .image-wrapper img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .blog-basic-grid--text { display: flex; flex-direction: column; }
-.blog-meta-section { display: none; }
+.blog-meta-section { display: flex; margin: 0; }
+.blog-meta-section time, .blog-meta-section .blog-author, .blog-meta-delimiter { display: none; }
 .blog-title { --v: var(--h3); font-family: "Anton", sans-serif; text-transform: uppercase; line-height: 1.3em; margin: 0 0 22px; }
 .blog-title a { text-decoration: none; }
 .blog-excerpt, .blog-excerpt p { --v: var(--small); line-height: 1.59em; margin: 0; }
@@ -325,6 +327,9 @@ p { margin: 1rem 0; }
   .blog-basic-grid { grid-template-columns: 1fr; gap: 39px; padding: 15.6px 6vw; }
   .blog-basic-grid .blog-item { margin-bottom: 30px; }
   .blog-title { margin-bottom: 7.8px; }
+  .blog-article-spacer { height: 20px; }
+  .blog-meta-section { margin-bottom: 7.8px; }
+  .blog-more-link { margin-top: 7.8px; padding-top: 7.8px; }
 }
 
 /* ---------------------------------------------------------------- footer */
