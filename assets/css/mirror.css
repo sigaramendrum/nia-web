@@ -2,11 +2,8 @@
    Values come from the live theme: fonts, sizes, colours, page widths. Block positions come
    from each section's own <style> (grid-area per block, desktop and mobile). */
 
-@font-face { font-family: "Anton"; src: url("../fonts/anton/Anton-Regular.ttf") format("truetype"); font-weight: 400; font-display: swap; }
-@font-face { font-family: "Inter"; src: url("../fonts/inter/Inter-Regular.ttf") format("truetype"); font-weight: 400; font-display: swap; }
-@font-face { font-family: "Inter"; src: url("../fonts/inter/Inter-Medium.ttf") format("truetype"); font-weight: 500; font-display: swap; }
-@font-face { font-family: "Inter"; src: url("../fonts/inter/Inter-SemiBold.ttf") format("truetype"); font-weight: 600; font-display: swap; }
-@font-face { font-family: "Inter"; src: url("../fonts/inter/Inter-Bold.ttf") format("truetype"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Anton"; src: url("../fonts/web/anton-latin.woff2") format("woff2"), url("../fonts/anton/Anton-Regular.ttf") format("truetype"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Inter"; src: url("../fonts/web/inter-latin.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: swap; }
 
 :root {
   --navy: #001446;
@@ -87,6 +84,7 @@ p { margin: 1rem 0; }
 .sqs-html-content li > p { margin: .5em 0; }
 .sqs-html-content a { text-decoration: underline; text-underline-offset: .15em; }
 .sqs-html-content strong { font-weight: 700; }
+.sqs-html-content p:empty::before { content: "\200b"; }
 
 /* ---------------------------------------------------------------- section themes (measured) */
 [data-section-theme="white"], .page-section:not([data-section-theme]) { --bg: #fff; --text: var(--navy); --head: var(--navy); --btn-bg: var(--navy); --btn-fg: #fff; }
