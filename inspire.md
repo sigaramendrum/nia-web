@@ -8,8 +8,7 @@ permalink: /inspire/
 
 **NIA INSPIRE**
 
-### Honouring lives.
-Empowering futures.
+### Honouring lives. Empowering futures.
 
 ![Six Nia students giving a thumbs-up](assets/images/nia-2.webp)
 

@@ -10,8 +10,7 @@ permalink: /sumathi-radhakrishnan-memorial-award/
 
 #### NIA INSPIRE
 
-# Sumathi Radhakrishnan
-Memorial Award
+# Sumathi Radhakrishnan Memorial Award
 
 </section>
 
