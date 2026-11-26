@@ -6,7 +6,7 @@ permalink: /sumathi-radhakrishnan-memorial-award/
 
 <!-- section 1: theme=black -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/e2eea310-b9f0-4938-8518-1c1767edf001/Tamil-Nadu.jpg)
+![Misty sunrise over fields and hills in Tamil Nadu](/assets/images/tamil-nadu.webp)
 
 #### NIA INSPIRE
 
@@ -19,9 +19,9 @@ Memorial Award
 
 A scholarship in honour of **Ms. Sumathi Radhakrishnan** – a woman whose values of kindness, equality, and belief in girls’ education continue to inspire change. Through **Nia Inspire**, this award supports girls in Tamil Nadu in pursuing an education of their choice and building a life shaped by opportunity and power of choice.
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/7c972378-61ef-411c-b8d5-3c434f9237ba/Uni.jpg)
+![Three people outside the University of Illinois Digital Computer Laboratory](/assets/images/uni.webp)
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/8ccc1a37-f3a9-4f4e-b77d-ff38dd1521e0/Shobana.jpg)
+![Shobana Radhakrishnan](/assets/images/shobana.webp)
 
 ### A tribute that creates opportunity
 
@@ -29,7 +29,7 @@ This scholarship has been instituted by [Shobana Radhakrishnan](https://www.link
 
 At the heart of this award is a daughter’s tribute to a mother whose life, values, and quiet strength left a lasting impact – not only on her own family, but on the many lives she touched.
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/d7392450-457b-410a-88c3-0a82f5099387/Shobana-Sumathi.jpg)
+![Shobana Radhakrishnan with her mother, Sumathi Radhakrishnan](/assets/images/shobana-sumathi-2.webp)
 
 ### Remembering Sumathi Radhakrishnan
 

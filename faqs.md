@@ -6,7 +6,7 @@ permalink: /faqs/
 
 <!-- section 1: theme=dark -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/b80a4ac6-fa9a-4b67-ab42-6fe628b8068d/Contact+blade-01.png)
+![](/assets/images/contact-blade-01.webp)
 
 # FAQ’s
 
@@ -38,7 +38,7 @@ In India, the average cost of supporting a girl’s education can vary from $25 
 
 ### Can I support a specific girl? If so, can I get regular updates on her progress?
 
-At present, we do not match specific donors to specific students due to operational overhead associated with that approach. But we are constantly evaluating technology solutions within Nia and our partner organizations to make this a reality in the near future
+Yes, through [Nia Inspire](/inspire/). Sponsors who institute a scholarship through Nia Inspire support girls hand-picked by Nia and receive regular updates on their progress. General donations are pooled to support all the girls in our programmes, so they are not matched to individual students.
 
 ### Does Nia support girls outside India?
 

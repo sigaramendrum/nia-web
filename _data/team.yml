@@ -3,53 +3,53 @@
 team:
   - name: Arun Mani
     role: Founder & President
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/a03fc4d3-7e35-4ba1-bfab-7968f034c310/Arun.jpg
+    photo: /assets/images/arun.webp
     linkedin: https://www.linkedin.com/in/thearunmani/
   - name: Bala Balasubramanian
     role: Co-founder & Treasurer
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/d365270a-0f31-4787-8eef-600c02960a7b/Bala-Balasubramanian-scaled.jpg
+    photo: /assets/images/bala-balasubramanian-scaled.webp
     linkedin: https://www.linkedin.com/in/bala2007/
   - name: Rajamani Thangapandiyan
     role: Program Manager
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/790ea71f-f088-4996-b587-2652ed25ad62/Rajamani.jpg
+    photo: /assets/images/rajamani.webp
     linkedin: https://www.linkedin.com/in/rajamani-thangapandian-878928208/
   - name: Neetha Edwin
     role: Marketing
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/3afc5cc9-c39c-49d7-8015-dcbfcd020954/Neetha.jpg
+    photo: /assets/images/neetha.webp
     linkedin: https://www.linkedin.com/in/neetha-edwin/
   - name: Swati Sharma
     role: Technology
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/588644d6-3d5a-485d-abe6-35656d727874/Swati.jpg
+    photo: /assets/images/swati.webp
     linkedin: https://www.linkedin.com/in/swati-sharma-3446b123/
   - name: Myriam Bahi
     role: Legal Counsel
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/aabedc8b-921a-4049-9334-87b020713103/Myriam-Bahi.jpg
+    photo: /assets/images/myriam-bahi.webp
     linkedin: https://www.linkedin.com/in/myriambahi/
   - name: Gareth Strange
     role: Design
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/933199ef-4725-4f7b-beeb-4f614762c1d1/Gareth-Nia.jpg
+    photo: /assets/images/gareth-nia.webp
     linkedin: https://www.linkedin.com/in/garethstrange/
   - name: Sarah Burley
     role: Brand
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/f52e602f-5651-4072-9c71-251ac988ba38/Sarah.jpg
+    photo: /assets/images/sarah.webp
     linkedin: https://www.linkedin.com/in/sarah-burley-94425065/
 
 board:
   - name: Bala Balasubramanian
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/d365270a-0f31-4787-8eef-600c02960a7b/Bala-Balasubramanian-scaled.jpg
+    photo: /assets/images/bala-balasubramanian-scaled.webp
     linkedin: https://www.linkedin.com/in/bala2007/
   - name: Arun Mani
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/a03fc4d3-7e35-4ba1-bfab-7968f034c310/Arun.jpg
+    photo: /assets/images/arun.webp
     linkedin: https://www.linkedin.com/in/thearunmani/
   - name: Namrata Sandhu
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/81154273-14cc-4e58-a968-5d20917d38bb/Namrata-Sandhu.jpg
+    photo: /assets/images/namrata-sandhu.webp
     linkedin: https://www.linkedin.com/in/namrata-sandhu/
   - name: Shikha Goyal
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/1dbd0f07-3ed0-4b34-a355-949c92053f72/Shikha-Goyal.jpeg
+    photo: /assets/images/shikha-goyal.webp
     linkedin: https://www.linkedin.com/in/shikhagoyal29/
   - name: Priya Selvaraj
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/b9c032bb-883e-4377-bcc4-6b83d5a2f089/Priya.jpg
+    photo: /assets/images/priya.webp
     linkedin: https://www.linkedin.com/in/priya-selvaraj-0549b54/
   - name: Shobana Radhakrishnan
-    photo: https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/73477b94-0d01-4f69-9f71-6ac545f83326/Shobana-Radhakrishnan.jpg
+    photo: /assets/images/shobana-radhakrishnan.webp
     linkedin: https://www.linkedin.com/in/shobanaradhakrishnan/

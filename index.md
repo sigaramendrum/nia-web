@@ -6,7 +6,7 @@ permalink: /
 
 <!-- section 1: theme=dark -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/4d7b80db-4c14-4f2f-9847-8c657c7358f3/BG-Hero.jpg)
+![](/assets/images/bg-hero.webp)
 
 ## Empowering young females through education and choice
 
@@ -14,15 +14,15 @@ With education underpinning every girl's future, Nia endeavours to educate and p
 
 [Learn more](/about/){: .button}
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/9394246c-b2ed-448c-a337-cf27ed65bd36/Hero.png)
+![Smiling young woman in a red dupatta, arms folded](/assets/images/hero.webp)
 
 ---
 
 <!-- section 2: theme=bright -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/41206a8a-3d80-4980-84f8-0a33e4d9b4ef/Page+1+-+Image+2.png)
+![](/assets/images/page-1-image-2.webp)
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/b31cea8b-f4e6-494c-b02b-1b444a088408/img-2.jpg)
+![Smiling teenage girl with a long braid](/assets/images/img-2.webp)
 
 ### **Power of choice**
 
@@ -64,7 +64,7 @@ years empowering young women
 
 <!-- section 4: theme=n/a -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/0ca22aae-a7ef-43bf-a5ea-f90d2b98c04a/Nia-Students.jpg)
+![Six Nia students standing together in a garden](/assets/images/nia-students.webp)
 
 # Making a difference
 
@@ -72,19 +72,19 @@ years empowering young women
 
 <!-- section 5: theme=dark -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/324b818d-0211-470e-bd15-d70b988ac78f/Page+1+-+Blade+3-01-01.png)
+![](/assets/images/page-1-blade-3-01-01.webp)
 
 ## Our programs
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/6c62b5b9-5919-46c3-b0b7-cb89a584d33c/Icon-1.png)
+![](/assets/images/icon-1-1.webp)
 
 #### Empower through education
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/09ca4321-0c09-4742-a682-be1df97f5317/Icon-2.png)
+![](/assets/images/icon-2-1.webp)
 
 #### Inspire via Community
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/79298acd-b23e-40ee-9e1b-f43d3f341b5f/Icon-3.png)
+![](/assets/images/icon-3-1.webp)
 
 #### Pay it forward
 
@@ -94,9 +94,9 @@ years empowering young women
 
 <!-- section 6: theme=white -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/acbaa0e1-ba62-447b-b92c-25bf4d543802/Page+1+-+Blade+4.png)
+![](/assets/images/page-1-blade-4.webp)
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/57e9d342-d298-405b-a50f-56d96171fa4b/Kanmani.jpg)
+![Smiling woman in a cream dupatta](/assets/images/kanmani-1.webp)
 
 ## Student’s stories
 

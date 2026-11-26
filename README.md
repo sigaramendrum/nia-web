@@ -15,13 +15,16 @@ consent.
 | A story, or add one | `_posts/YYYY-MM-DD-<name>.md` (shows at `/stories/<name>/`) |
 | The Stories list | `stories.md` |
 | Buttons | Write `[Label](/link/){: .button}` on its own line |
+| Images | Put the file in `assets/images/` and write `![What it shows](/assets/images/<file>)` |
 
 Each page's URL is the `permalink:` in its header, matching the old Squarespace URLs.
 
 ## Status (2026-11-26)
 - **Phase 1 done:** content converted from the Squarespace export (13 pages, 5 stories).
   `<!-- section N: theme=... -->` comments record the old layout's colour blocks for phase 3.
-- **Phase 2 next:** images still load from Squarespace's CDN; they get copied into `assets/`.
+- **Phase 2 done:** the 65 images the pages use are in `assets/images/` (WebP, web size, with alt
+  text; backgrounds and icons are marked decorative). Fonts are in `assets/fonts/` (Anton, Inter, both
+  OFL) and logos are in `assets/logo/`.
 - **Phase 3:** layouts (`_layouts/`), styles, nav, footer and redirects. Until then `.nojekyll`
   stays, and Pages is off.
 

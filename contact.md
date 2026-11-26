@@ -6,7 +6,7 @@ permalink: /contact/
 
 <!-- section 1: theme=dark -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/b80a4ac6-fa9a-4b67-ab42-6fe628b8068d/Contact+blade-01.png)
+![](/assets/images/contact-blade-01.webp)
 
 # Contact
 

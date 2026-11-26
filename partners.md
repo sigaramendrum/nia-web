@@ -6,7 +6,7 @@ permalink: /partners/
 
 <!-- section 1: theme=dark -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/02fc7137-6397-46dd-98af-e51c01869b26/Blue+Blade-01.png)
+![](/assets/images/blue-blade-01.webp)
 
 # Partners
 
@@ -14,25 +14,25 @@ permalink: /partners/
 
 <!-- section 2: theme=bright -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/7ba8ff91-fa64-4f97-a77f-3d525686f685/Blade-01.png)
+![](/assets/images/blade-01.webp)
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/45330bac-0ff9-4135-a54f-41e15caa2b8b/Turning-Point.png)
+![Turning Point Educational Trust logo](/assets/images/turning-point.webp)
 
 **Turning Point Educational Trust**
 
 Turning Point Educational Trust a non-profit organization, was founded with the vision to promote innovative solutions to education challenges and inspire actions that create sustainable future for children. Slum children’s opportunities to learn are being threatened due to various reasons and we work to stimulate a learning environment that provides knowledge and skills. We operate in Chennai’s largest resettlement slum in Kannagi Nagar and Perumbakkam through Motivation and Learning Centers and direct community interventions.
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/37518c98-50c6-48b4-9b10-9c84bc502535/SEA.jpg)
+![Society for Education and Action logo](/assets/images/sea.webp)
 
 **Society for Education and Action**
 
 Society for Education and Action shortly known as SEA, is a Non Governmental Organization located in Mamallapuram in the Tamil Nadu region of India. SEA was founded in the year 2000 by a community of development workers and young people from 32 local fishing villages in and around the area. SEA has mainly been working for Children’s Rights, Education and Protection.
 
-**AID INDIA**
+[**Association for India’s Development (AID)**](https://aidindia.org/)
 
-<!-- TODO: AID INDIA description and logo. Arun to supply. -->
+AID is a volunteer movement and US 501(c)(3) non-profit that supports grassroots organisations across India in education, livelihoods, health, women’s empowerment and social justice. In Tamil Nadu, its Eureka programme runs schools, free evening tutoring and village libraries, and its You GO Girl! initiative gives girls bicycles so that distance doesn’t end their schooling. As one of Nia’s partners, AID helps us find girls who need support to continue their education.
 
-[![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/151c1dd5-b9a8-4478-8c36-f9624fc4391e/IBIC-Logo.jpg)](https://www.ibic.ai/)
+[![I Believe I Can (IBIC) logo](/assets/images/ibic-logo.webp)](https://www.ibic.ai/)
 
 [**I Believe I Can (IBIC)**](https://www.ibic.ai/)
 
@@ -42,12 +42,12 @@ At Nia, we believe that empowering young women goes beyond sponsoring education.
 
 <!-- section 3: theme=white -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/acbaa0e1-ba62-447b-b92c-25bf4d543802/Page+1+-+Blade+4.png)
+![](/assets/images/page-1-blade-4.webp)
 
 ## Student’s stories
 
 Take a limitation and turn it into an opportunity. Take an opportunity and turn it into an adventure. Dream big!
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/d006bbb4-d444-4418-91fa-4ff1a201ddb8/Kanmani.jpg)
+![Smiling woman in a cream dupatta](/assets/images/kanmani-2.webp)
 
 [Get inspired](/stories/){: .button}

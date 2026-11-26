@@ -11,7 +11,7 @@ permalink: /inspire/
 ### Honouring lives.
 Empowering futures.
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/60f9b212-279b-43c9-a550-f826a02688ef/Nia-2.jpg)
+![Six Nia students giving a thumbs-up](/assets/images/nia-2.webp)
 
 Nia Inspire is a scholarship initiative by Nia that enables individuals, families, and institutions to create meaningful educational support for girls. The program transforms admiration, remembrance, gratitude, and shared values into real opportunity by sponsoring a girl’s education. At its heart, Nia Inspire creates pathways for girls to pursue an education of their choice and build independent, dignified futures.
 
@@ -19,7 +19,7 @@ Nia Inspire is a scholarship initiative by Nia that enables individuals, familie
 
 <!-- section 2: theme=white -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/46172369-ca11-47a7-ac24-ea94a1d9debe/Shobana-Sumathi.jpg)
+![Shobana Radhakrishnan with her mother, Sumathi Radhakrishnan](/assets/images/shobana-sumathi-1.webp)
 
 #### Sumathi Radhakrishnan Memorial Award
 
@@ -33,7 +33,7 @@ The first scholarship under Nia Inspire is the Sumathi Radhakrishnan Memorial Aw
 
 <!-- section 3: theme=light-bold -->
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/4d3bc180-c1df-4f61-b0b9-00d4008cf268/Nia-1.jpg)
+![Nia student standing in a garden](/assets/images/nia-1.webp)
 
 **Why Nia Inspire**
 
@@ -43,7 +43,7 @@ Many girls continue to face financial, social, and cultural barriers that limit 
 
 Through Nia Inspire, scholarships can be instituted under Nia, in memory of a loved one, in honour of shared values, or in support of girls’ education. Each scholarship can carry its own name and story while contributing to Nia’s broader mission of empowering girls through education and choice.
 
-![](https://images.squarespace-cdn.com/content/v1/62e793c78715b55915ef6f4e/9518d1fe-84ff-4667-8dc6-9e7e98615a06/Nia-3.jpg)
+![Smiling Nia student in a yellow dupatta](/assets/images/nia-3.webp)
 
 **How it works**
 
