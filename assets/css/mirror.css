@@ -283,7 +283,7 @@ p { margin: 1rem 0; }
 .blog-item-top-wrapper { display: flex; flex-direction: column; margin-bottom: var(--header-spacing, 50px); }
 .blog-item-meta-wrapper { order: -1; display: flex; gap: 11px; margin-bottom: 28px; }
 .blog-item-author-date-wrapper, .blog-item-meta-wrapper time, .blog-meta-item { display: none; }
-.blog-item-title h1 { --v: var(--h1); margin: 0; line-height: 1.3em; }
+.blog-item-title h1 { --v: var(--h1); margin: 0; line-height: 1.3em; overflow-wrap: break-word; }
 .blog-item-content { margin-bottom: 3vw; }
 .blog-item-comments { margin-top: 3vw; }
 .sqs-layout .row { display: flex; margin: 0 -17px; }
@@ -292,7 +292,8 @@ p { margin: 1rem 0; }
 @media screen and (min-width: 768px) { .sqs-layout .row:first-child > .col:first-child > .sqs-block:first-child { padding-top: 0; } }
 .image-block-outer-wrapper figure { margin: 0 auto; }
 .sqs-image-shape-container-element img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-.image-caption-wrapper { display: none; }
+.blog-item-author-profile-wrapper { display: none; }
+.image-caption p { margin: 0; }
 
 /* previous / next */
 .item-pagination { display: flex; justify-content: space-between; padding: 3vw var(--pagePadding); background: #fff; color: var(--navy); }
@@ -306,7 +307,7 @@ p { margin: 1rem 0; }
 .item-pagination-title { --v: var(--h3); font-family: "Anton", sans-serif; text-transform: uppercase; line-height: 1em; margin: 0; color: var(--ink); }
 
 /* stories list */
-.blog-basic-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 91px 45px; padding: var(--pagePadding); max-width: var(--maxPageWidth); margin: 0 auto; }
+.blog-basic-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 77px 45px; padding: var(--pagePadding); max-width: var(--maxPageWidth); margin: 0 auto; }
 .blog-basic-grid .blog-item { display: flex; flex-direction: column; margin: 0; }
 .blog-basic-grid .image-wrapper { position: relative; display: block; padding-bottom: 100%; overflow: hidden; margin: 0; }
 .blog-article-spacer { height: 31px; }
@@ -325,7 +326,8 @@ p { margin: 1rem 0; }
   .blog-item-meta-wrapper { margin-bottom: 16.8px; }
   .item-pagination { padding: 3vw 6vw; }
   .blog-basic-grid { grid-template-columns: 1fr; gap: 39px; padding: 15.6px 6vw; }
-  .blog-basic-grid .blog-item { margin-bottom: 30px; }
+  .blog-basic-grid .blog-item { margin-bottom: 15px; }
+  .sqs-layout .row { display: block; }
   .blog-title { margin-bottom: 7.8px; }
   .blog-article-spacer { height: 20px; }
   .blog-meta-section { margin-bottom: 7.8px; }
