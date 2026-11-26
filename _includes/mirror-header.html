@@ -17,8 +17,10 @@
       {% for item in site.data.navigation.main %}<a href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
     </nav>
     <div class="nia-overlay-actions">
-      <a class="nia-social" href="https://www.linkedin.com/company/nia-the-power-of-choice" target="_blank" rel="noopener" aria-label="LinkedIn">{% include icon-linkedin.svg %}</a>
-      <a class="nia-social" href="https://www.instagram.com/niathepowerofchoice/" target="_blank" rel="noopener" aria-label="Instagram">{% include icon-instagram.svg %}</a>
+      <div class="nia-icons">
+        <a class="nia-social" href="https://www.linkedin.com/company/nia-the-power-of-choice" target="_blank" rel="noopener" aria-label="LinkedIn">{% include icon-linkedin.svg %}</a>
+        <a class="nia-social" href="https://www.instagram.com/niathepowerofchoice/" target="_blank" rel="noopener" aria-label="Instagram">{% include icon-instagram.svg %}</a>
+      </div>
       <a class="nia-cta" href="donate/">Donate</a>
     </div>
   </div>
