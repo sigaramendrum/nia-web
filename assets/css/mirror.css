@@ -236,12 +236,12 @@ p { margin: 1rem 0; }
   max-width: none;
 }
 .nia-logo img { display: block; height: 57px; width: auto; }
-.nia-nav { flex: 1; display: flex; justify-content: center; flex-wrap: wrap; gap: 0 .9em; }
+.nia-nav { flex: 1; display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 0 17.6px; }
 .nia-nav a { --v: var(--normal); text-decoration: none; line-height: 1.59em; padding: .1em 0; }
 .nia-nav a[aria-current="page"], .nia-nav a:hover { text-decoration: underline; text-underline-offset: .2em; }
 .nia-actions { display: flex; align-items: center; }
 .nia-social { display: inline-flex; width: 27px; height: 27px; color: var(--ink); margin-left: 17.6px; }
-.nia-actions .nia-social:first-child { margin-left: 0; }
+.nia-actions .nia-social:first-child { margin-left: 74.6px; }
 .nia-cta { --v: var(--hbtn); --btn-bg: var(--navy); font-weight: 400; text-transform: none; margin-left: 74px; padding: 1.2em 2.5em; }
 .nia-burger, .nia-overlay { display: none; }
 
