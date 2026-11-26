@@ -60,7 +60,7 @@ p, ul, ol { margin: 0 0 1.1em; }
   margin: 0.25em 0.5em 0.25em 0;
 }
 .button:hover { filter: brightness(1.25); }
-p:has(> a.button) { margin: 1.5em 0; }
+p:has(> a.button) { margin-top: 1.5em; margin-bottom: 1.5em; }
 
 /* Header */
 .site-header {
