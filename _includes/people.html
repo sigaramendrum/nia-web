@@ -1,0 +1,9 @@
+<ul class="people">
+{% for p in include.people %}
+  <li>
+    <a href="{{ p.linkedin }}"><img src="{{ p.photo }}" alt="{{ p.name }}" loading="lazy"></a>
+    <strong><a href="{{ p.linkedin }}">{{ p.name }}</a></strong>
+    {% if p.role %}<span>{{ p.role }}</span>{% endif %}
+  </li>
+{% endfor %}
+</ul>
