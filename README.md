@@ -17,7 +17,6 @@ desktop and for phones. Arun asked for the same layout with no visible change.
 | Top menu | `_data/navigation.yml` (`main:`) and `_includes/mirror-header.html` |
 | Footer | `_includes/mirror-footer.html` |
 | Colours, fonts, spacing | `assets/css/mirror.css` (section themes are at the top) |
-| Grid row heights measured from the old site | `assets/css/rows.css` (generated; normally leave alone) |
 | Images | `assets/images/` (WebP). Keep the `alt` text describing the picture. |
 | Redirect an old URL | Add it under `redirect_from:` in the target page's header |
 
