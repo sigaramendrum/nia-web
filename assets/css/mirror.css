@@ -351,14 +351,14 @@ p { margin: 1rem 0; }
   .blog-item-top-wrapper, .blog-item-content-wrapper, .blog-item-comments { width: 100%; }
   .blog-item-meta-wrapper { margin-bottom: 16.8px; }
   .item-pagination { padding: 3vw 6vw; }
-  .blog-basic-grid { grid-template-columns: 1fr; gap: 39px; padding: 15.6px 6vw 33.6px; }
+  .blog-basic-grid { grid-template-columns: 1fr; gap: 10vw; padding: 4vw 6vw calc(4vw + 15px); }
   .blog-basic-grid .blog-item { margin-bottom: 30px; }
   .blog-basic-grid .blog-item:first-child { margin-bottom: 15px; }
   .sqs-layout .row { display: block; }
-  .blog-title { margin-bottom: 7.8px; }
-  .blog-article-spacer { height: 20px; }
-  .blog-meta-section { margin-bottom: 7.8px; }
-  .blog-more-link { margin-top: 7.8px; padding-top: 7.8px; }
+  .blog-title { margin-bottom: 2vw; }
+  .blog-article-spacer { height: 5vw; }
+  .blog-meta-section { margin-bottom: 2vw; }
+  .blog-more-link { margin-top: 2vw; padding-top: 2vw; padding-bottom: 1px; }
 }
 
 /* ---------------------------------------------------------------- footer */
