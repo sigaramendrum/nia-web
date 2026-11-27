@@ -141,6 +141,9 @@ p { margin: 1rem 0; }
 .fluid-engine .sqs-block-content { flex: var(--sqs-block-content-flex, 0 1 auto); width: 100%; }
 .fluid-engine .sqs-block.image-block .sqs-block-content,
 .fluid-engine .sqs-block-image .sqs-block-content { flex: 1; height: 100%; }
+.fluid-engine .sqs-block-content:has(> .sqs-shape-block-outer-container) { flex: 1; height: 100%; }
+.sqsrte-text-color--white { color: #fff; }
+.sqsrte-text-color--black { color: #041443; }
 .sqs-block-alignment-wrapper { display: flex; width: 100%; }
 .sqs-text-block-container, .sqs-html-content { width: 100%; }
 .sqs-html-content { padding: var(--tweak-text-block-padding, 0); }
